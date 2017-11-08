@@ -1,2 +1,38 @@
-# first-step-to-python
-example+esxercise
+# First-Step-To-Python
+notes + example + esxercise
+
+## 概念基础
+### 运算子
+1. 算數運算子
+ +、-、*、/、%、// 
+2. 關係運算子
+
+==、!=(不等于）、>=、<=、>、<
+
+3. 邏輯運算子
+not、and 且、or 或
+
+a = Ture
+b =  False
+
+print(not a)_———>False (不是true）
+
+4. 賦值運算子
+sum = 13
+
+5. 複合指定運算子
++=（a = a+1———》a += 1
+
+-=、*=、/=、%=、//=、**= （次方）
+
+若是字串相加則串連字串
+
+### 條件判斷
+一般而言程式是循序式執行，
+但若有設定條件判斷則會『根據條件』
+跳躍執行
+1. 單向判斷（if...）
+
+2. 雙向判斷（if...else）
+
+3. 多向判斷（if...elif...else）
